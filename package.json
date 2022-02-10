@@ -1,0 +1,37 @@
+{
+	"name": "idalibre.coffee-relax-1",
+	"displayName": "ID.A Coffee Relax 1 Theme",
+	"description": "A ID.A libre Theme inspired Brown Dark relax",
+	"version": "1.0.0",
+	"license": "MIT",
+	"publisher": "idalibre",
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"homepage": "https://idalibre.com.com/vscode/cofee-relax-1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/juan-palma/vscode-theme-coffee-relax-1.git"
+	},
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "ID.A Coffee Relax 1 Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/coffee-relax-1.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "8hru961a-6a83-7s4i-820f-9be6kr69b1ty",
+		"publisherId": "54181481-hw5e-4ea6-b180-84nq416834d4",
+		"publisherDisplayName": "Juan Palma",
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1644471290701
+	}
+}
