@@ -61,13 +61,13 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#d4bf83"
+				"foreground": "#d93610"
 			}
 		},
 		{
 			"scope": "entity.name.tag.css",
 			"settings": {
-				"foreground": "#d4bf83"
+				"foreground": "#d93610"
 			}
 		},
 		{
@@ -89,7 +89,7 @@
 				"entity.other.attribute-name.scss"
 			],
 			"settings": {
-				"foreground": "#d4bf83"
+				"foreground": "#d93610"
 			}
 		},
 		{
