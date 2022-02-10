@@ -34,7 +34,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#444"
+				"foreground": "#383838"
 			}
 		},
 		{
@@ -236,7 +236,7 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#999"
+				"foreground": "#aaa"
 			}
 		},
 		{
@@ -266,7 +266,7 @@
 				"punctuation.definition.template-expression.end.js"
 			],
 			"settings": {
-				"foreground": "#bbb"
+				"foreground": "#60be33"
 			}
 		},
 		{
@@ -288,7 +288,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#ccc"
+				"foreground": "#ddd"
 			}
 		},
 		{
@@ -548,7 +548,7 @@
 				"meta.object-literal.key entity.name.function"
 			],
 			"settings": {
-				"foreground": "#ccc"
+				"foreground": "#ddd"
 			}
 		},
 		{
